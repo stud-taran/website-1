@@ -7,6 +7,7 @@ Pallets.
 https://palletsprojects.com/
 
 Deploys automatically: [![Build Status](https://travis-ci.org/pallets/website.svg?branch=master)](https://travis-ci.org/pallets/website)
+its a amazing project
 
 
 ## Editing Content
